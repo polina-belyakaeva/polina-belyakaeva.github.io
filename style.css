@@ -41,6 +41,6 @@ h2{
     display: flex;
   }
 
- @media {
+ @media{
     max-width:320px;
 }
